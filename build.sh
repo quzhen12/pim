@@ -1,0 +1,1 @@
+cd ~/pim/build/pim && go build -o pim main.go && mv pim /usr/local/bin/
