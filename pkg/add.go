@@ -6,7 +6,8 @@ import (
 	"os"
 	"os/exec"
 	"path"
-	"quzhen12/pim/driver"
+
+	"github.com/quzhen12/pim/driver"
 )
 
 func init() {

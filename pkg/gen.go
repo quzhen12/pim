@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"io/ioutil"
 	"path"
-	"quzhen12/pim/driver"
+
+	"github.com/quzhen12/pim/driver"
 )
 
 func init() {
@@ -54,7 +55,7 @@ func template(pkg, name string) string {
 import (
 	"fmt"
 
-	"quzhen12/pim/driver"
+	"github.com/quzhen12/pim/driver"
 )
 
 func init() {
