@@ -1,1 +1,1 @@
-module "quzhen12/pim"
+module github.com/quzhen12/pim
